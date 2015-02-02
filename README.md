@@ -2,5 +2,8 @@ Emacs File
 ===========
 
 ## Emacs init File 
-![Emacs IDE logo]: http://www.unixstickers.com/image/data/stickers/emacs/Emacs-icon.sh.png 
+![alt text][logo]
 Purpose of this Repo is to refrence if something ever were to go wrong and I need to refrence back 
+
+
+[logo]:  http://www.unixstickers.com/image/data/stickers/emacs/Emacs-icon.sh.png  "Emacs Logo"
