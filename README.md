@@ -6,4 +6,4 @@ Emacs File
 Purpose of this Repo is to refrence if something ever were to go wrong and I need to refrence back 
 
 
-[logo]:  http://www.unixstickers.com/image/data/stickers/emacs/Emacs-icon.sh.png  "Emacs Logo"
+[logo]: http://ashutoshmehra.net/blog/wp-content/uploads/2009/04/emacs128x128icon.png  "Emacs Logo"
