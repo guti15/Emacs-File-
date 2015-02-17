@@ -3,6 +3,7 @@ Emacs File
 
 ## Emacs init File 
 ![alt text][logo]
+---------------------
 Purpose of this Repo is to refrence if something ever were to go wrong and I need to refrence back 
 
 
